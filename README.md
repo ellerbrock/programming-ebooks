@@ -8,6 +8,7 @@ These are all the programming e-Books I have collected. Feel free to [contribute
 - [Computer Systems, A Programmer's Perspective](https://github.com/andrewpage/programming-ebooks/blob/master/General/Computer%20Systems%20-%20A%20Programmers%20Perspective.pdf)
 - [Structure and Implementation of Computer Programs](https://github.com/andrewpage/programming-ebooks/blob/master/General/Structure%20and%20Interpretation%20of%20Computer%20Programs.pdf)
 - [Cracking the Coding Interview (4th Edition)](https://github.com/andrewpage/programming-ebooks/blob/master/General/CrackingTheCodingInterview4th.pdf)
+- [Introduction to Algorithms (3rd Edition)](https://github.com/andrewpage/programming-ebooks/blob/master/General/Introduction%20to%20Algorithms%20(3rd%20Edition)%20by%20Thomas%20H.%20Cormen%2C%20Charles%20E.%20Leisersion%2C%20Ronald%20L.%20Rivest%2C%20and%20Clifford%20Stein.pdf)
 
 ### C++
 
@@ -28,6 +29,7 @@ These are all the programming e-Books I have collected. Feel free to [contribute
 - [Effective Java (2nd Edition)](https://github.com/andrewpage/programming-ebooks/blob/master/Java/Effective%20Java%20(2nd%20Edition).pdf)
 - [Head First Java (2nd Edition)](https://github.com/andrewpage/programming-ebooks/blob/master/Java/Head%20First%20Java%2C%202nd%20Edition.pdf)
 - [Java Concurrency in Practice](https://github.com/andrewpage/programming-ebooks/blob/master/Java/Java%20Concurrency%20in%20Practice.pdf)
+- [Introduction to Java Programming - Comprehensive Version (8th Edition)](https://github.com/andrewpage/programming-ebooks/blob/master/Java/Introduction%20to%20Java%20Programming%20-%20Comprehensive%20Version%20(8th%20Edition)%20by%20Y.%20Daniel%20Liang.pdf)
 
 ### Objective-C
 
