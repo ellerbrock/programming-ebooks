@@ -44,6 +44,7 @@ These are all the programming e-Books I have collected. Feel free to [contribute
 
 - [Byte of Python](https://github.com/andrewpage/programming-ebooks/blob/master/Python/ByteOfPython.pdf)
 - [Django Book](https://github.com/andrewpage/programming-ebooks/tree/master/Python/DjangoBook)
+- [Python Machine Learning](https://github.com/andrewpage/programming-ebooks/tree/master/Python/Python%20Machine%20Learning.pdf)
 
 ### Cheat Sheets
 
