@@ -35,6 +35,9 @@ These are all the programming e-Books I have collected. Feel free to [contribute
 - [Java Concurrency in Practice](https://github.com/andrewpage/programming-ebooks/blob/master/Java/Java%20Concurrency%20in%20Practice.pdf)
 - [Introduction to Java Programming - Comprehensive Version (8th Edition)](https://github.com/andrewpage/programming-ebooks/blob/master/Java/Introduction%20to%20Java%20Programming%20-%20Comprehensive%20Version%20(8th%20Edition)%20by%20Y.%20Daniel%20Liang.pdf)
 
+### JavaScript
+- [Practical Node.js - Building Real World Scalable Web Apps](https://github.com/andrewpage/programming-ebooks/blob/master/JavaScript/Practical%20Node.js%20-%20Building%20Real%20World%20Scalable%20Web%20Apps.pdf)
+
 ### Objective-C
 
 - [The Objective-C Programming Language](https://github.com/andrewpage/programming-ebooks/blob/master/Objective-C/TheObjectiveCProgrammingLanguage.pdf)
