@@ -22,6 +22,7 @@ These are all the programming e-Books I have collected. Feel free to [contribute
 
 ### Go
 - [Introducing Go](https://github.com/andrewpage/programming-ebooks/blob/master/Go/Introducing%20Go.pdf)
+- [The Go Programming Language](https://github.com/andrewpage/programming-ebooks/blob/master/Go/The%20Go%20Programming%20Language.pdf)
 
 ### Haskell
 
