@@ -20,6 +20,9 @@ These are all the programming e-Books I have collected. Feel free to [contribute
 
 - [Head First C](https://github.com/andrewpage/programming-ebooks/blob/master/C/Head%20First%20C.pdf)
 
+### Go
+- [Introducing Go](https://github.com/andrewpage/programming-ebooks/blob/master/Go/Introducing%20Go.pdf)
+
 ### Haskell
 
 - [Real World Haskell](https://github.com/andrewpage/programming-ebooks/blob/master/Haskell/Real%20World%20Haskell.pdf)
