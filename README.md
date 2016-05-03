@@ -69,3 +69,7 @@ These are all the programming e-Books I have collected. Feel free to [contribute
 
 - [Pro Git](https://github.com/andrewpage/programming-ebooks/blob/master/Version%20Control/ProGit.pdf)
 - [Subversion Version Control](https://github.com/andrewpage/programming-ebooks/blob/master/Version%20Control/SubversionVersionControl.pdf)
+
+## Copyright
+
+If you would like to enforce a copyright claim on one of the works included in this collection, please [submit an issue](https://github.com/andrewpage/programming-ebooks/issues/new) and I'll be able to assist.
