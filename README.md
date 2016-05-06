@@ -9,6 +9,11 @@ These are all the programming e-Books I have collected. Feel free to [contribute
 - [Structure and Implementation of Computer Programs](https://github.com/andrewpage/programming-ebooks/blob/master/General/Structure%20and%20Interpretation%20of%20Computer%20Programs.pdf)
 - [Cracking the Coding Interview (4th Edition)](https://github.com/andrewpage/programming-ebooks/blob/master/General/CrackingTheCodingInterview4th.pdf)
 - [Introduction to Algorithms (3rd Edition)](https://github.com/andrewpage/programming-ebooks/blob/master/General/Introduction%20to%20Algorithms%20(3rd%20Edition)%20by%20Thomas%20H.%20Cormen%2C%20Charles%20E.%20Leisersion%2C%20Ronald%20L.%20Rivest%2C%20and%20Clifford%20Stein.pdf)
+- [Beautiful Code]()
+- [Clean Code]()
+- [Refactoring - Improving the design of existing code]()
+- [The Passionate Programmer]()
+- [The Mythical Man Month]()
 
 ### C++
 
