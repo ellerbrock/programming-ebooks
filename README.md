@@ -9,11 +9,11 @@ These are all the programming e-Books I have collected. Feel free to [contribute
 - [Structure and Implementation of Computer Programs](https://github.com/andrewpage/programming-ebooks/blob/master/General/Structure%20and%20Interpretation%20of%20Computer%20Programs.pdf)
 - [Cracking the Coding Interview (4th Edition)](https://github.com/andrewpage/programming-ebooks/blob/master/General/CrackingTheCodingInterview4th.pdf)
 - [Introduction to Algorithms (3rd Edition)](https://github.com/andrewpage/programming-ebooks/blob/master/General/Introduction%20to%20Algorithms%20(3rd%20Edition)%20by%20Thomas%20H.%20Cormen%2C%20Charles%20E.%20Leisersion%2C%20Ronald%20L.%20Rivest%2C%20and%20Clifford%20Stein.pdf)
-- [Beautiful Code]()
-- [Clean Code]()
-- [Refactoring - Improving the design of existing code]()
-- [The Passionate Programmer]()
-- [The Mythical Man Month]()
+- [Beautiful Code](https://github.com/andrewpage/programming-ebooks/blob/master/General/Beautiful%20Code.pdf)
+- [Clean Code](https://github.com/andrewpage/programming-ebooks/blob/master/General/Clean%20code.pdf)
+- [Refactoring - Improving the design of existing code](https://github.com/andrewpage/programming-ebooks/blob/master/General/Refactoring_improving_the_design_of_existing_code.pdf)
+- [The Passionate Programmer](https://github.com/andrewpage/programming-ebooks/blob/master/General/The%20Passionate%20Programmer%20(2009)%20-%20(Malestrom).pdf)
+- [The Mythical Man Month](https://github.com/andrewpage/programming-ebooks/blob/master/General/The.Mythical.Man.Month.F.Brooks.pdf)
 
 ### C++
 
