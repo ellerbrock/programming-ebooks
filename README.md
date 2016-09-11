@@ -42,6 +42,7 @@ These are all the programming e-Books I have collected. Feel free to [contribute
 
 ### JavaScript
 - [Practical Node.js - Building Real World Scalable Web Apps](https://github.com/andrewpage/programming-ebooks/blob/master/JavaScript/Practical%20Node.js%20-%20Building%20Real%20World%20Scalable%20Web%20Apps.pdf)
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/) - Deep dive into the core mechanisms of JavaScript
 
 ### Objective-C
 
